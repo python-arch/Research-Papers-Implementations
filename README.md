@@ -17,7 +17,7 @@ Here’s a list of the models and papers implemented so far:
 
 1. **Vision Transformer (ViT)**
    - Paper: ["An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"](https://arxiv.org/abs/2010.11929)
-   - Implementation: [Link to ViT Implementation](./path_to_vit_code)
+   - Implementation: [Link to ViT Implementation](./VIT_from_scratch)
 
 ## Used Setup
 For all of these experiments I have trained / tested the models using Nvidia RTX 4090 GPU. The logs of the training and/or testing are omitted from this repository.
