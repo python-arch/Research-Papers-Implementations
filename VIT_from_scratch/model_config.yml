@@ -1,0 +1,16 @@
+model:
+  name: "VIT"
+params:
+  patch_size: 16
+  latent_size: 768 
+  n_channels: 3
+  num_head: 12
+  num_encoders: 12
+  dropout: 0.1
+  num_classes: 10
+  size: 224
+training:
+  epochs : 100
+  base_lr : 0.001
+  weight_decay : 0.03
+  batch_size : 4
