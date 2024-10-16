@@ -18,4 +18,4 @@ To run any of the implemented models, follow the instructions in each model's re
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 
-2. **we will find the main.py which you can run directly after seting up your conda/venv environment
+2. **You will find the main.py which you can run directly after seting up your conda/venv environment**
