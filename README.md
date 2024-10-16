@@ -1,9 +1,4 @@
 # Models and Papers Exploration
-
-In this repository, I will implement various DL models and research papers from scratch for the sake of exploration and knowledge. This is an ongoing project aimed at deepening my understanding of different architectures, training strategies, and concepts in the field of data science.
-
-
-## Introduction
 The goal of this repository is to explore and implement cutting-edge models and papers from scratch. This allows me to understand the nuances of each model, while also giving others an opportunity to follow along and learn. Each implementation includes detailed comments, explanations, and test scripts to demonstrate the models' performance.
 
 ## Implemented Models
